@@ -1,2 +1,3 @@
 # GitFetchDemo
 This is for my demo repo.
+I want to learn about Git and all of it's helpful features!  Forever learning...
